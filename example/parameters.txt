@@ -1,0 +1,3 @@
+data	plugins/MINT/example/stemcells.gene.csv
+outcome	plugins/MINT/example/stemcells.celltype.csv
+study	plugins/MINT/example/stemcells.study.csv
