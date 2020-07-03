@@ -2,7 +2,8 @@
 # Language: R
 # Input: TXT
 # Output: PREFIX
-# Tested with: PluMA 1.0, R 4.0
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: knitr_1.28, mixOmics_6.12.1
 
 
 Plugin to integrate multiple independent studies using Multivariate INTegrative analysis (Rohart et al, 2017).
